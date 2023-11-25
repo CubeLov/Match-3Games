@@ -20,4 +20,8 @@ public class Main {
     void print(){
         System.out.println("Hello World");
     }
+
+    void print(int a){
+        System.out.println(a);
+    }
 }
