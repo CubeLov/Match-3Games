@@ -17,4 +17,7 @@ public class Main {
     }
 
     // Today is 2023/11/25
+    void print(){
+        System.out.println("Hello World");
+    }
 }
