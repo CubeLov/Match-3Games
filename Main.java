@@ -12,9 +12,4 @@ public class Main {
             mainFrame.setVisible(true);
         });
     }
-    public String toString(){
-        return String.format("He is Xiaoming");
-    }
-
-    // Today is 2023/11/25
 }
