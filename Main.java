@@ -12,6 +12,4 @@ public class Main {
             mainFrame.setVisible(true);
         });
     }
-
-// We are at SUSTech
 }
