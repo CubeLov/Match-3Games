@@ -12,6 +12,8 @@ public class ChessPiece {
     public ChessPiece(String name) {
         this.name = name;
         this.color = Constant.colorMap.get(name);
+        //name代表图标，钻石、圆圈...
+        //color则根据name由Map映射
     }
 
     public String getName() {

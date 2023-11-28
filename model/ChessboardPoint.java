@@ -25,9 +25,9 @@ public class ChessboardPoint {
     public int hashCode() {
         return row + col;
     }
-
+    //hashcode不唯一？
     @Override
-    @SuppressWarnings("ALL")
+    @SuppressWarnings("ALL")//忽略警告
     public boolean equals(Object obj) {
         if (obj == null) {
             return false;
