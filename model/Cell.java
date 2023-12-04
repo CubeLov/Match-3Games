@@ -24,4 +24,10 @@ public class Cell implements Serializable {
     public void print(){
         System.out.println("Sustech");
     }
+    public String abc(){
+        return String.format("HAVE A TRY");
+    }
+    public String abc2(){
+        return String.format("TRY AGAIN");
+    }
 }
