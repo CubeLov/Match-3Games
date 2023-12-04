@@ -17,7 +17,9 @@ public class ChessPiece {
     public String getName() {
         return name;
     }
-
+    public void print(){
+        System.out.println("Sustech");
+    }
     public Color getColor(){return color;}
 
 }

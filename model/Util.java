@@ -5,4 +5,7 @@ public class Util {
         int randomIndex = (int) (Math.random() * arr.length);
         return arr[randomIndex];
     }
+    public void print(){
+        System.out.println("Sustech");
+    }
 }
