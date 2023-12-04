@@ -20,4 +20,8 @@ public class Cell implements Serializable {
     public void removePiece() {
         this.piece = null;
     }
+
+    public void print(){
+        System.out.println("Sustech");
+    }
 }
