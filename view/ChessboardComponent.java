@@ -29,9 +29,39 @@ public class ChessboardComponent extends JComponent {
     dsadas
     sdasad
     sdaaaa
-
     sdadass
     sdasad*/
+
+    /*
+    123
+    2
+    3
+    123
+    12
+    312
+    3
+    23
+    21
+    3
+    23
+    12
+    321
+     */
+    /*
+    123
+    2
+    3
+    123
+    12
+    312
+    3
+    23
+    21
+    3
+    23
+    12
+    321
+     */
     public ChessboardComponent(int chessSize) {
         CHESS_SIZE = chessSize;
         int width = CHESS_SIZE * 8;
