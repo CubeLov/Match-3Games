@@ -22,7 +22,16 @@ public class ChessboardComponent extends JComponent {
     private final Set<ChessboardPoint> riverCell = new HashSet<>();
 
     private GameController gameController;
+    /*
+    dsad
+    sdasd
+    dsadas
+    dsadas
+    sdasad
+    sdaaaa
 
+    sdadass
+    sdasad*/
     public ChessboardComponent(int chessSize) {
         CHESS_SIZE = chessSize;
         int width = CHESS_SIZE * 8;
